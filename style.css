@@ -1,0 +1,102 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+#controls{
+	position:absolute;
+	top:100px;
+	left:500px;
+}
+#b1{
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+#b2{
+	position:absolute;
+	top:0px;
+	left:30px;
+}
+#b3{
+	position:absolute;
+	top:0px;
+	left:60px;
+}
+#b4{
+	position:absolute;
+	top:30px;
+	left:0px;
+}
+#b5{
+	position:absolute;
+	top:30px;
+	left:30px;
+}
+#b6{
+	position:absolute;
+	top:30px;
+	left:60px;
+}
+#b7{
+	position:absolute;
+	top:60px;
+	left:0px;
+}
+#b8{
+	position:absolute;
+	top:60px;
+	left:30px;
+}
+#b9{
+	position:absolute;
+	top:60px;
+	left:60px;
+}
+#b0{
+	position:absolute;
+	top:90px;
+	left:30px;
+}
+#bp{
+	position:absolute;
+	top:150px;
+	left:0px;
+}
+#bm{
+	position:absolute;
+	top:180px;
+	left:0px;
+}
+#bt{
+	position:absolute;
+	top:150px;
+	left:30px;
+}
+#bd{
+	position:absolute;
+	top:180px;
+	left:30px;
+}
+#be{
+	position:absolute;
+	top:150px;
+	left:60px;
+}
+#bc{
+	position:absolute;
+	top:180px;
+	left:60px;
+}
+#bcc{
+	position:absolute;
+	top:210px;
+	left:0px;
+}
+#ba{
+	position:absolute;
+	top:210px;
+	left:45px;
+}
